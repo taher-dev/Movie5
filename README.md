@@ -15,7 +15,7 @@
 
   <h3 align="center">A Movie Application</h3>
   
-  <a><h3 align="center">[🔗 movie5,vercel.app](https://movie5.vercel.app/)</h3></a>
+  <a><h3 align="center">[🔗 movie5.vercel.app](https://movie5.vercel.app/)</h3></a>
 
 </div>
 
